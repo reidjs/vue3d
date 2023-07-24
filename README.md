@@ -1,5 +1,5 @@
 # vue3d
-Easily view interactive 3d models in any vue app.
+Interactive 3d models in any vue app.
 
 
 ![Demo](demo.gif)
@@ -20,7 +20,7 @@ Easily view interactive 3d models in any vue app.
 <template>
 ```
 
-# Docs
+# Documentation
 This package wraps google's [model-viewer](https://modelviewer.dev/) with vue, so refer to their docs for usage.
 
 # Local development
