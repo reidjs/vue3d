@@ -13,7 +13,6 @@
     }
   },
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
