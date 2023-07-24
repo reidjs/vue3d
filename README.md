@@ -4,7 +4,7 @@ Easily view interactive 3d models in any vue app.
 
 ![Demo](demo.gif)
 # Setup
-1. Install @reidjs/vue3d
+1. Install @reidjs/vue3d from [npm](https://www.npmjs.com/package/@reidjs/vue3d) 
 
 
 `npm i @reidjs/vue3d`
