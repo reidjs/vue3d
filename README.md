@@ -9,7 +9,7 @@ Easily view interactive 3d models in any vue app.
 
 `npm i @reidjs/vue3d`
 
-1. Import the `ModelViewer` component
+2. Import the `ModelViewer` component
 ```html
 <script setup>
     import { ModelViewer } from "@reidjs/vue3d"
